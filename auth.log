@@ -1,0 +1,7 @@
+
+2026-10-26 09:00:00 INFO login successful user=alice
+2026-10-26 09:02:00 WARNING login failed user=admin
+2026-10-26 09:02:15 WARNING login failed user=admin
+2026-10-26 09:02:30 WARNING login failed user=admin
+2026-10-26 09:05:00 INFO login successful user=bob
+2026-10-26 09:10:00 WARNING login failed user=guest
